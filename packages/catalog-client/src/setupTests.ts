@@ -14,10 +14,4 @@
  * limitations under the License.
  */
 
-export { plugin, catalogApiRef } from './plugin';
-export * from './routes';
-export { useEntityCompoundName } from './components/useEntityCompoundName';
-export { Router } from './components/Router';
-export { useEntity, EntityContext } from './hooks/useEntity';
-export { AboutCard } from './components/AboutCard';
-export { EntityPageLayout } from './components/EntityPageLayout';
+export {};
